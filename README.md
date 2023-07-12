@@ -11,7 +11,7 @@ Example Output:
 
 3 TABS
 
-https://github.com/0x85EAF00D/Chrome-URL-saver/
+https://github.com/0x85EAF00D/Chrome-URL-Tool/
 
 https://www.apple.com/mac/
 
